@@ -322,6 +322,8 @@ textarea {
         .projects__row-content-desc {
           font-size: 1.7rem; } }
 
+
+
 .contact {
   background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../../assets/svg/common-bg.svg);
   background-size: cover;
@@ -702,3 +704,19 @@ textarea {
   to {
     opacity: 0;
     top: 27px; } }
+
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color:Blue;
+}
+.header-container h1 {
+  margin: 0;
+}
+.heading-sec__sub
+{
+  align-items: center;
+  color:Green;
+}
